@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.0.
 
+# Backend Spring boot REST API
+https://github.com/msureshmewara/spring-boot-rest-api
+
+# Modules
+
+1. Login Module.
+2. Sign Up Module.
+3. Product Category.
+4. Product Details.
+5. My Cart.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
